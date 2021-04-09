@@ -5,7 +5,6 @@ import SearchBar from './search_bar.jsx';
 import Gif from './gif.jsx';
 import GifList from './gif_list.jsx';
 
-
 class App extends Component {
   constructor(props) {
     super(props);
