@@ -23,7 +23,7 @@ class App extends Component {
         limit: 10
     }, (error, result) => {
         this.setState({
-          gifs: result.data
+          gifs: gifs
         });
     });
   }
